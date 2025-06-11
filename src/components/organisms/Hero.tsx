@@ -110,8 +110,8 @@ export const Hero: React.FC = () => {
                 />
                 
                 <motion.img
-                  src="https://images.pexels.com/photos/7562313/pexels-photo-7562313.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
-                  alt="Ariel Developer"
+                  src="/img/perfil.png"
+                  alt="Ariel Dev"
                   className="rounded-circle shadow-lg position-relative hero-image"
                   whileHover={{ scale: 1.05 }}
                   transition={{ duration: 0.3 }}

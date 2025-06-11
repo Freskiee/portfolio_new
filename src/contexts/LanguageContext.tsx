@@ -19,8 +19,8 @@ const translations = {
     
     // Hero Section
     'hero.greeting': 'Hola, soy',
-    'hero.name': 'Ariel Developer',
-    'hero.title': 'Frontend Developer & Creative Technologist',
+    'hero.name': 'Ariel Dev',
+    'hero.title': 'Desarrollador Frontend & Tecnólogo Creativo',
     'hero.description': 'Transformo ideas creativas en experiencias digitales excepcionales. Especializado en React, diseño UI/UX y desarrollo frontend moderno.',
     'hero.contact': 'Contáctame',
     'hero.download': 'Descargar CV',
@@ -89,7 +89,7 @@ const translations = {
     
     // Footer
     'footer.tagline': 'Creando experiencias digitales excepcionales',
-    'footer.copyright': 'Ariel Developer. Hecho con',
+    'footer.copyright': 'Ariel Dev. Hecho con',
     'footer.coffee': 'y mucho café ☕',
     
     // Theme Selector
@@ -107,7 +107,7 @@ const translations = {
     
     // Hero Section
     'hero.greeting': 'Hi, I\'m',
-    'hero.name': 'Ariel Developer',
+    'hero.name': 'Ariel Dev',
     'hero.title': 'Frontend Developer & Creative Technologist',
     'hero.description': 'I transform creative ideas into exceptional digital experiences. Specialized in React, UI/UX design and modern frontend development.',
     'hero.contact': 'Contact Me',
@@ -177,7 +177,7 @@ const translations = {
     
     // Footer
     'footer.tagline': 'Creating exceptional digital experiences',
-    'footer.copyright': 'Ariel Developer. Made with',
+    'footer.copyright': 'Ariel Dev. Made with',
     'footer.coffee': 'and lots of coffee ☕',
     
     // Theme Selector

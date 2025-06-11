@@ -69,7 +69,7 @@ export const About: React.FC = () => {
               transition={{ duration: 0.8 }}
             >
               <img
-                src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="/img/full-stack.png"
                 alt="Workspace"
                 className="img-fluid rounded-4 shadow-lg"
               />

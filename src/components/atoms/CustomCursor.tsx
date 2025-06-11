@@ -15,8 +15,9 @@ export const CustomCursor: React.FC = () => {
       }}
       transition={{
         type: 'spring',
-        stiffness: 500,
-        damping: 28
+        stiffness: 1200,
+        damping: 15,
+        mass: 0.3
       }}
     />
   );

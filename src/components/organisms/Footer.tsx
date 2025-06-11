@@ -24,7 +24,7 @@ export const Footer: React.FC = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h5 className="fw-bold mb-2">Ariel Developer</h5>
+              <h5 className="fw-bold mb-2">Ariel Dev</h5>
               <p className="text-muted mb-0">
                 {t('footer.tagline')}
               </p>
