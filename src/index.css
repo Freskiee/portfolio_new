@@ -662,3 +662,22 @@ html {
   background: var(--primary-gradient);
   border-color: transparent;
 }
+
+/* Navbar Logo */
+.navbar-brand img {
+  height: 40px;
+  width: auto;
+  transition: var(--transition);
+}
+
+.navbar-brand:hover img {
+  transform: scale(1.05);
+}
+
+.theme-dark .navbar-brand img {
+  filter: brightness(0.9);
+}
+
+.theme-neon .navbar-brand img {
+  filter: drop-shadow(0 0 8px rgba(0, 255, 136, 0.5));
+}

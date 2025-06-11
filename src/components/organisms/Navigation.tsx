@@ -46,12 +46,16 @@ export const Navigation: React.FC = () => {
     >
       <div className="container">
         <motion.a
-          className="navbar-brand fw-bold fs-3 text-gradient"
+          className="navbar-brand d-flex align-items-center"
           href="#"
           onClick={() => handleNavClick('#hero')}
           whileHover={{ scale: 1.05 }}
         >
-          Ariel.dev
+          <img 
+            src="/img/logo-dev-no-background.png" 
+            alt="Ariel Dev" 
+            className="navbar-logo"
+          />
         </motion.a>
 
         <div className="d-flex align-items-center gap-2 d-lg-none">
